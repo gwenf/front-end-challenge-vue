@@ -1,24 +1,18 @@
 # front-end-challenge
 
-## Project setup
-```
-npm install
-```
+## TODOs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Home Page
+- [ ] Header
+- [ ] Search and Filter Section
+- [ ] Card list of countries
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Other
+- [ ] Theme Switcher
+- [ ] Set up routes: `/` and `/:countryId`
+- [ ] Pull in countries from API
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Country Page
+- [ ] Pagination
+- [ ] Country Image
+- [ ] Country Information
